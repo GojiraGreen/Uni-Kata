@@ -1,8 +1,7 @@
-Exircises list
+My programming exercises.
 ========
 
-Files
----------
+Files:
 
-**Average Monthly income**:
-Use data from income.txt and calculate average monthly income, separately for man and woman.
+**Files**-working with files
+**Algorithms**-implement classic algorithms
