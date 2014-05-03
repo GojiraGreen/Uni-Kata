@@ -4,10 +4,8 @@ Exircises list
 Algorithms
 ---------
 
-**Quicksort**:
-
+**Quicksort** :
 Implement quicksort algorithm.
 
-**Strassen Algorithm**:
-
+**Strassen Algorithm** :
 Volker Strassen algorithm for faster matrix multiplication.
