@@ -2,7 +2,7 @@
  * Horner.cpp
  *
  *  Created on: Nov 28, 2014
- *      Author: Aron Zieliński
+ *      Author: Gojira Green
  */
 
 #include "Horner.h"
