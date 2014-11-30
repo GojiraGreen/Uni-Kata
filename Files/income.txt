@@ -1,0 +1,6 @@
+Male 28000
+Female 26000
+Female 42000
+Mele 53000
+Female 46000
+Female 49000
