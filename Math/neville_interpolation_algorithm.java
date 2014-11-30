@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Algorytm Neville'a
  * 
- * @author Aron Zieliński
+ * @author Gojira Green
  */
 public class Neville {
 	
