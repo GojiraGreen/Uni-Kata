@@ -1,5 +1,3 @@
-package com.zielinski_aron.neville;
-
 import java.util.Scanner;
 
 /**
